@@ -63,15 +63,6 @@ I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocc
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mouad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aguelloulmouad-hub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aguelloulmouad-hub&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
 ---
 
 <div align="center">
