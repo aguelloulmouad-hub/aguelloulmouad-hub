@@ -32,7 +32,7 @@ I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocc
 |---|---|---|
 | [🛣️ Urban Semantic Segmentation](https://github.com/aguelloulmouad-hub/cityscapes_semantic_segmentation) | Semantic segmentation of urban driving scenes using U-Net & DeepLabV3+ | PyTorch · U-Net · DeepLabV3+ · ResNet50 |
 | [🛡️ FlowGuard](#) | Real-time fraud detection with Federated Learning | Kafka · ML · Neo4j · Dash |
-| [🔥 Forest Fire Detection](#) | CNN-based fire & smoke detection — 99.10% accuracy | Inception-ResNet-v2 · OpenCV · TensorFlow |
+| [🔥 Forest Fire Detection](https://github.com/aguelloulmouad-hub/Forest-Fire-Detection) | CNN-based fire & smoke detection — 99.10% accuracy | Inception-ResNet-v2 · OpenCV · TensorFlow |
 | [🏥 MedData](#) | Distributed medical data management system | Apache Cassandra · Python |
 | [🤖 Battleship AI](#) | Multi-agent intelligent battleship simulation | JADE · JavaFX · ACL |
 | [🎓 DoctoralERP](#) | Doctoral defense management under Odoo 12 | Odoo · Python · ERP |
