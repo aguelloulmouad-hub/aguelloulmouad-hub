@@ -34,7 +34,7 @@ I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocc
 | [🛡️ FlowGuard](https://github.com/aguelloulmouad-hub/FlowGuard) | Real-time fraud detection with Federated Learning | Kafka · ML · Neo4j · Dash |
 | [🔥 Forest Fire Detection](https://github.com/aguelloulmouad-hub/Forest-Fire-Detection) | CNN-based fire & smoke detection — 99.10% accuracy | Inception-ResNet-v2 · OpenCV · TensorFlow |
 | [🏥 MedData](#) | Distributed medical data management system | Apache Cassandra · Python |
-| [🤖 Battleship AI](#) | Multi-agent intelligent battleship simulation | JADE · JavaFX · ACL |
+| [🤖 Battleship AI](https://github.com/aguelloulmouad-hub/BattleshipAI) | Multi-agent intelligent battleship simulation | JADE · JavaFX · ACL |
 | [🎓 DoctoralERP](https://github.com/aguelloulmouad-hub/DoctoralERP) | Doctoral defense management under Odoo 12 | Odoo · Python · ERP |
 | [🏨 Hotel Management](https://github.com/aguelloulmouad-hub/HotelManagement) | Complete web application for centralized hotel operations management | Java EE · MySQL · Tomcat · Tailwind CSS |
 | [🎯 DailyStride](https://github.com/aguelloulmouad-hub/DailyStride) | Desktop task and goal management application with notifications | C# · .NET · SQL Server · ADO.NET |
