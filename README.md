@@ -36,6 +36,7 @@ I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocc
 | [🏥 MedData](#) | Distributed medical data management system | Apache Cassandra · Python |
 | [🤖 Battleship AI](#) | Multi-agent intelligent battleship simulation | JADE · JavaFX · ACL |
 | [🎓 DoctoralERP](https://github.com/aguelloulmouad-hub/DoctoralERP) | Doctoral defense management under Odoo 12 | Odoo · Python · ERP |
+| [🏨 Hotel Management](#) | Complete web application for centralized hotel operations management | Java EE · MySQL · Tomcat · Tailwind CSS |
 
 ---
 
