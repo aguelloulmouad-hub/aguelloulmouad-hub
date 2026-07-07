@@ -16,29 +16,42 @@
 
 ## 🧠 About Me
 
-I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocco, passionate about building production-grade AI systems that solve real problems. My work spans machine learning pipelines, distributed architectures, computer vision, and multi-agent systems.
+I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocco, passionate about building production-grade AI systems that solve real problems. My work spans **machine learning pipelines, distributed architectures, computer vision, and multi-agent systems.**
 
 - 🎓 Currently pursuing **Master IA & Digital Computing** — FST Béni Mellal
-- 🔭 Working on real-time fraud detection with **Federated Learning** and Big Data
+- 🔭 Working on real-time fraud detection with **Federated Learning** and Big Data streaming (`FlowGuard`)
 - 🌱 Exploring **LLM fine-tuning**, RAG systems, and **agentic AI**
+- 🖼️ Strong focus on **computer vision** — semantic segmentation, CNNs, fire/smoke detection
+- 🕸️ Comfortable across the full stack: from **distributed data systems** (Cassandra, Kafka, Neo4j) to **desktop/web apps** (Java EE, .NET, Odoo)
 - 💬 Speak **Arabic**, **French**, and **English**
-- 📍 Based in **Safi, Morocco**
+- 📍 Based in **Béni Mellal, Morocco**
 
 ---
 
 ## 🚀 Featured Projects
 
+### 🤖 AI / Computer Vision
+
 | Project | Description | Stack |
 |---|---|---|
-| [🛣️ Urban Semantic Segmentation](https://github.com/aguelloulmouad-hub/cityscapes_semantic_segmentation) | Semantic segmentation of urban driving scenes using U-Net & DeepLabV3+ | PyTorch · U-Net · DeepLabV3+ · ResNet50 |
-| [🛡️ FlowGuard](https://github.com/aguelloulmouad-hub/FlowGuard) | Real-time fraud detection with Federated Learning | Kafka · ML · Neo4j · Dash |
+| [🛣️ Urban Semantic Segmentation](https://github.com/aguelloulmouad-hub/cityscapes_semantic_segmentation) | Semantic segmentation of urban driving scenes on Cityscapes using U-Net & DeepLabV3+ | PyTorch · U-Net · DeepLabV3+ · ResNet50 |
 | [🔥 Forest Fire Detection](https://github.com/aguelloulmouad-hub/Forest-Fire-Detection) | CNN-based fire & smoke detection — 99.10% accuracy | Inception-ResNet-v2 · OpenCV · TensorFlow |
-| [🏥 MedData](https://github.com/aguelloulmouad-hub/MedData) | Distributed medical data management system | Apache Cassandra · Python |
-| [🤖 Battleship AI](https://github.com/aguelloulmouad-hub/BattleshipAI) | Multi-agent intelligent battleship simulation | JADE · JavaFX · ACL |
-| [🎓 DoctoralERP](https://github.com/aguelloulmouad-hub/DoctoralERP) | Doctoral defense management under Odoo 12 | Odoo · Python · ERP |
-| [🏨 Hotel Management](https://github.com/aguelloulmouad-hub/HotelManagement) | Complete web application for centralized hotel operations management | Java EE · MySQL · Tomcat · Tailwind CSS |
-| [🎯 DailyStride](https://github.com/aguelloulmouad-hub/DailyStride) | Desktop task and goal management application with notifications | C# · .NET · SQL Server · ADO.NET |
+| [🛡️ FlowGuard](https://github.com/aguelloulmouad-hub/FlowGuard) | Real-time fraud detection combining Federated Learning with streaming data & graph analysis | Kafka · ML · Neo4j · Dash |
 
+### 🕸️ Distributed Systems & Multi-Agent
+
+| Project | Description | Stack |
+|---|---|---|
+| [🏥 MedData](https://github.com/aguelloulmouad-hub/MedData) | Distributed medical data management system built for scale and availability | Apache Cassandra · Python |
+| [🤖 Battleship AI](https://github.com/aguelloulmouad-hub/BattleshipAI) | Multi-agent intelligent battleship simulation with agent communication protocols | JADE · JavaFX · ACL |
+
+### 💻 Software Engineering / ERP
+
+| Project | Description | Stack |
+|---|---|---|
+| [🎓 DoctoralERP](https://github.com/aguelloulmouad-hub/DoctoralERP) | Doctoral defense management module built on Odoo 12 | Odoo · Python · ERP |
+| [🏨 Hotel Management](https://github.com/aguelloulmouad-hub/HotelManagement) | Full web application for centralized hotel operations management | Java EE · MySQL · Tomcat · Tailwind CSS |
+| [🎯 DailyStride](https://github.com/aguelloulmouad-hub/DailyStride) | Desktop task and goal management app with smart notifications | C# · .NET · SQL Server · ADO.NET |
 
 ---
 
@@ -67,7 +80,17 @@ I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocc
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
+
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguelloulmouad-hub&show_icons=true&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aguelloulmouad-hub&layout=compact&hide_border=true)
+
+</div>
 
 ---
 
