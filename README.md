@@ -71,6 +71,12 @@ I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocc
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Apache Cassandra](https://img.shields.io/badge/Apache%20Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white)
 ![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![Plotly Dash](https://img.shields.io/badge/Dash-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+
+**Multi-Agent Systems**
+
+![JADE](https://img.shields.io/badge/JADE-2E7D32?style=flat-square&logo=java&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-EA6B66?style=flat-square&logo=openjfx&logoColor=white)
 
 **Development**
 
@@ -78,19 +84,12 @@ I'm a Master's student in **AI & Digital Computing** at FST Béni Mellal, Morocc
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat-square&logo=odoo&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mouad's GitHub stats](https://github-readme-stats.vercel.app/api?username=aguelloulmouad-hub&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aguelloulmouad-hub&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
