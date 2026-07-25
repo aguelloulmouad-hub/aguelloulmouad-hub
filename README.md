@@ -6,9 +6,6 @@
 
 <br><br>
 
-<a href="https://github.com/aguelloulmouad-hub">
-<img src="https://img.shields.io/github/followers/aguelloulmouad-hub?style=for-the-badge"/>
-</a>
 
 # 👋 Hi, I'm Mouad Aguelloul
 
