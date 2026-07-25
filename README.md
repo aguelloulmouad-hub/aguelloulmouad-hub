@@ -1,5 +1,4 @@
 <div align="center">
-<div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6E6B8B,100:9C9AB5&height=220&section=header&text=Mouad%20Aguelloul&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Researcher%20|%20Builder&descAlignY=60"/>
 
@@ -11,11 +10,6 @@
 <img src="https://img.shields.io/github/followers/aguelloulmouad-hub?style=for-the-badge"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mouad-aguelloul-a53a77389/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
 # 👋 Hi, I'm Mouad Aguelloul
 
 ### AI & Digital Computing Master's Student · Morocco 🇲🇦
